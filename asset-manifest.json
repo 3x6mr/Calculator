@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.ec17ea13.css",
+    "main.js": "/Calculator/static/js/main.191b68b5.js",
+    "static/media/wallpaperflare.com_wallpaper (1).jpg": "/Calculator/static/media/wallpaperflare.com_wallpaper (1).37387279cdee47be87a5.jpg",
+    "index.html": "/Calculator/index.html",
+    "main.ec17ea13.css.map": "/Calculator/static/css/main.ec17ea13.css.map",
+    "main.191b68b5.js.map": "/Calculator/static/js/main.191b68b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec17ea13.css",
+    "static/js/main.191b68b5.js"
+  ]
+}
